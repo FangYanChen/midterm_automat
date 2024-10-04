@@ -1,3 +1,17 @@
 import numpy as np 
 print("hello")
 "ufiufgufgeirugiygfiygiegfiefgiegfiefgiehgfieyrfgieygfieryfgeiryfgiergfiyegfiyegri"
+"""
+kjhfeoihfoehfouehfoeuhfoeuherouhgeorg
+oeeuhgoeuhgouhorhgoirehgorhgorugr
+oruugoerughreguheorgouewrgyiughiursghsrug
+houghfgoeuhgoihpeifueofuero[f
+goirheguohergeiewhoewhegw
+fuwegurgjhgpiwigpiirgnherg
+rgheroughogpwigurhgjrgwpee
+woughurghrhgiehgehrgjregwkgehgejrge
+foeruhgougerjgnreihgoeuhgberjge
+frgbejrgorehgebgurghbergj
+bergoebverogerbgoiegwhpinrvjlnwje
+foejrbvrouebvjenvpeirviernn
+jebebvuerbviuebvbervbres]"""
