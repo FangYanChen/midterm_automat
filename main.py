@@ -15,3 +15,5 @@ frgbejrgorehgebgurghbergj
 bergoebverogerbgoiegwhpinrvjlnwje
 foejrbvrouebvjenvpeirviernn
 jebebvuerbviuebvbervbres]"""
+print(1245)
+print(87655)
