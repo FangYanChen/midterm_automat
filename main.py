@@ -15,15 +15,3 @@ frgbejrgorehgebgurghbergj
 bergoebverogerbgoiegwhpinrvjlnwje
 foejrbvrouebvjenvpeirviernn
 jebebvuerbviuebvbervbres]"""
-
-
-
-
-
-
-
-
-
-s = 2
-l = 5
-u = 4
