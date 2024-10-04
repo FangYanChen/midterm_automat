@@ -1,8 +1,19 @@
-function isPalindrome(str) {
-      const cleanStr = str.toLowerCase().replace(/[\W_]/g, ''); // Remove non-alphanumeric characters
-      return cleanStr === cleanStr.split('').reverse().join('');
-  }
-  
-  console.log(isPalindrome("A man, a plan, a canal, Panama")); // true
-  console.log(isPalindrome("Hello")); // false
-  
+const text = document.createElement("h1");
+text.innerText = "Fading Text";
+document.body.appendChild(text);
+
+let opacity = 0;
+let fadeIn = true;
+
+function fadeText() {
+    if (fadeIn) {
+        opacity += 0.05;
+        if (opacity >= 1) fadeIn = false;
+    } else {
+        opacity -= 0.05;
+        if (opacity <= 0) fadeIn = true;
+    }
+    text.style.opacity = opacity;
+}
+
+setInterval(fadeText, 100);
